@@ -9,7 +9,7 @@ Somos un equipo diverso compuesto por estudiantes de diferentes carreras y nivel
 ## Nuestros Proyectos
 
 - **Yonesto:** Aplicacion Web para administrar las compras internas de las Salas de UNICA [Yonesto](https://github.com/RoniHernandez99/yonesto_beta)
-- **UNIAccounts:** API para la administracion de cuentas de usuarios del sistema UNICA [UNIAccounts](https://github.com/reitmas32/UNICA-ManagerAccounts-API).
+- **UNIAccounts:** API para la administracion de cuentas de usuarios del sistema UNICA [UNIAccounts](https://github.com/UNIHacks/UNIAccounts-BackEnd).
 - **UNIPrint** Sistema para la Automatizacion de Impresiones de las salas de UNICA [UNIPrint]().
 - **UNIBank** Sistema para la Unificacion de Compras dentro de las salas de UNICA [UNIBank]().
 - **UNICyber** Sistema para el prestamo de equipos presentes en las Salas de UNICA [UNICyber]().
